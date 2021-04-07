@@ -1,17 +1,40 @@
 body
 {
     color: rgb(7, 5, 5);
+<<<<<<< HEAD
     text-align: center;
     font-family: "courier";
     font-size: 16px;
+=======
+    text-align: left;
+    font-family: "Arial";
+    font-size: 17px;
+>>>>>>> cabecera
     margin: 0;
-    padding: 0;
+    padding: 2;
+}
+
+#cabecera 
+{
+    background: lightgreen;
+    box-shadow: 0px 5px 30px 5px rgba(0, 0, 0, 0.75);
+    color: white;
+    font-weight: bold;
+    margin: 2;
+    padding: 0.8em;
+}
+
+#cabecera #tagline
+{
+    margin: lem 0 0 0 lem;
+    font-weight: normal;
+    font-size: 0.6em;
 }
 
 #container
 {
-    width: 50%;
-    padding: lem;
+    width: 80%;
+    padding: 0;
     text-align: center;
     border: 1px solid rgb(14, 11, 11);
     margin: 0 auto;
@@ -19,5 +42,10 @@ body
 
 #container h1
 {
-    font-size: 50px;
+    font-size: 30px;
+}
+#post 
+{
+    padding: lem;
+
 }
