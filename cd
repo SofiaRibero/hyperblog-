@@ -1,0 +1,54 @@
+[33mcommit cb0745a1e91e724970a851e322c78dbfe5b608bb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sofia Ribero <elianasofiaribero@hotmail.com>
+Date:   Mon Apr 5 19:46:51 2021 -0500
+
+    reemplazo de una version por otra historia
+
+ historia.txt | 8 [32m+++[m[31m-----[m
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+
+[33mcommit 3f5429e7337cca7cd2a811c4b326bf613e0a0343[m
+Author: Sofia Ribero <elianasofiaribero@hotmail.com>
+Date:   Mon Apr 5 19:41:07 2021 -0500
+
+    cambio de maestria
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 6e7128b33d116eef0089ddd3f812bcbceaf49b27[m
+Author: Sofia Ribero <elianasofiaribero@hotmail.com>
+Date:   Mon Apr 5 19:39:50 2021 -0500
+
+    cambio de vida
+
+ historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit e8b292a36c503b6624926e71e385d70bc0040a90[m
+Author: Sofia Ribero <elianasofiaribero@hotmail.com>
+Date:   Mon Apr 5 19:38:23 2021 -0500
+
+    Arranco mi proyecto real con html y css
+
+ blogpost.html   | 10 [32m++++++++++[m
+ css/estilos.css |  6 [32m++++++[m
+ 2 files changed, 16 insertions(+)
+
+[33mcommit 2fcb785d939b5460014700fb144763b6aacd0a14[m
+Author: Sofia Ribero <elianasofiaribero@hotmail.com>
+Date:   Sun Apr 4 20:20:46 2021 -0500
+
+    Este es el primer commit de este archivo
+
+ historia.txt | 6 [32m+++[m[31m---[m
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+[33mcommit 0a77fb35f575bf9984b55bcf624b2893275de932[m
+Author: SofiaRibero <elianasofiaribero@hotmail.com>
+Date:   Sun Apr 4 19:25:46 2021 -0500
+
+    Este es el primer commit de este archivo
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)

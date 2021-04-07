@@ -1,6 +1,23 @@
 body
 {
-    color: green;
+    color: rgb(7, 5, 5);
     text-align: center;
     font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#container
+{
+    width: 50%;
+    padding: lem;
+    text-align: center;
+    border: 1px solid rgb(14, 11, 11);
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 50px;
 }
